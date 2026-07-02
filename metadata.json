@@ -1,0 +1,10 @@
+{
+  "name": "Interview Coach Intelligence",
+  "description": "An AI-powered interview coaching platform that transcribes audio, identifies speakers, maps engagement levels, and creates actionable coaching cards.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
